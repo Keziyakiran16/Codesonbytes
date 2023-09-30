@@ -1,7 +1,5 @@
 # Codesonbytes
 import random
-n=int(input("Enter number of questions you want to ask:"))
-
 # Define a list of 30 questions and their corresponding answers
 questions = [
     {"question": "What is the capital of India?", "answer": "New Delhi"},
